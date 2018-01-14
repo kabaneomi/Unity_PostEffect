@@ -13,3 +13,6 @@ Desktop.ini
 /Temp
 /UnityPackageManager
 /Packages
+
+# Visual Studio
+.vs/
